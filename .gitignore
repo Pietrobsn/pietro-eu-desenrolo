@@ -1,0 +1,17 @@
+.env
+.env.*
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
+
+# Artefatos locais de teste e ferramentas
+test-results/
+**/test-results/
+.agents/
+.codex/
+
+# Copia antiga local mantida fora do repositorio publico
+odiei/
